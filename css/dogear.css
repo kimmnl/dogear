@@ -1,0 +1,23 @@
+.brand-title {
+  padding-left: 10px;
+}
+
+.footer {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#sidebar {
+  padding: 15px;
+  margin-top: 10px;
+}
+
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
+}
