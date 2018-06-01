@@ -1,23 +1,27 @@
-.brand-title {
-  padding-left: 10px;
+.menu-brand {
+  font-size: 18;
 }
 
-.footer {
-  text-align: center;
-  padding-bottom: 10px;
+.menu-image {
+  padding-right: 10px;
 }
 
-#sidebar {
-  padding: 15px;
-  margin-top: 10px;
+.ui#content{
+  padding-top: 60px;
 }
 
-.Site {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+.no-gutter.grid {
+  margin: 0;
+}
+.no-gutter.grid .column {
+  padding: 0;
 }
 
-.Site-content {
-  flex: 1;
+.no-gutter {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.sidebar-column {
+  padding-left: 0;
 }
