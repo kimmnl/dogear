@@ -7,11 +7,13 @@
 }
 
 .ui#content{
-  padding-top: 60px;
+  padding-top: 100px;
+
 }
 
 .no-gutter.grid {
   margin: 0;
+  padding-top: 10px;
 }
 .no-gutter.grid .column {
   padding: 0;
@@ -20,6 +22,28 @@
 .no-gutter {
   margin-left: 0;
   margin-right: 0;
+}
+
+.search {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    position: absolute;
+    left: 45%;
+}
+
+.text {
+    position:absolute;
+    left:45%;
+    padding-bottom:10px;
+}
+
+.title {
+    position:absolute;
+    left:45%;
+    font-size:xx-large;
+    font-style:italic;
+    padding-bottom: 50px;
+    padding-top: 70px;
 }
 
 .sidebar-column {
